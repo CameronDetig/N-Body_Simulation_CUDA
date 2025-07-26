@@ -11,8 +11,8 @@ There are three folders, "Sequential", "Parallel_OpenMP", and "Parallel_CUDA" th
 
 Comparison of running the program using OpenMP with different numbers of CPU threads versus running on a GTX-1080ti GPU using CUDA.
 
-![n-body graph](visualization/N-body_Runtimes_2.png)
+![n-body graph](visualization/N-body_Runtimes_1.png)
 
 The below chart includes the sequential runtimes as well.
 
-![n-body graph](visualization/N-body_Runtimes_3.png)
+![n-body graph](visualization/N-body_Runtimes_2.png)
