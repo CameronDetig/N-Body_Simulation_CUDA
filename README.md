@@ -1,5 +1,5 @@
 # N-Body Simulation using CUDA and OpenMP
-Simulates the gravitational interaction between multiple bodies in a 3D space with C++ using CUDA and OpenMP for parallelization. Project as part of the Parallel Computing graduate course at UNC Charlotte. Executed on the university's Centaurus Cluster. 
+Simulates the gravitational interaction between multiple bodies in a 3D space with C++ using CUDA and OpenMP for parallelization. Project as part of the Parallel Computing graduate course at UNC Charlotte. Executed on the university's High Performance Computing (HPC) Centaurus Cluster using a GeForce GTX-1080Ti GPU.
 
 For each frame, every body has to calculate the influece it receives from every other body on its direction and velocity. Parallelizing this leads to significant performance increases.
 
